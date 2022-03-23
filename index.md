@@ -4,26 +4,21 @@ You can use the [editor on GitHub](https://github.com/Sty-ven/Steph_Portfolio/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Project 1: Employee Attrition
+The project is to help a company which is trying to control attrition. The data used for this project is obtained from the Kaggle. Following attributes are available for every employee.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Education
+EnvironmentSatisfaction
+JobInvolvement
+JobSatisfaction
+PerformanceRating
+RelationshipSatisfaction
+WorkLifeBalance
+Therefore I am going to answer the following questions:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+What is the effect of Income on attrition?
+Which set of people are most likey to quit their job?
+What is the impact of Age on Employee Attrition?
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
